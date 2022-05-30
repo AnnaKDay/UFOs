@@ -8,6 +8,7 @@ javascript intro
 - A user will notice the filter search section to the left of the page. Here they can easily type in relevant filters. 
 - Keep in mind that these filters should be typed in lowercase, to match the data that we have stored in our table. 
 - Below is an example of the results returned when the filters "ca" (state), and "light" (shape) are input.
+![filtered_ex](https://user-images.githubusercontent.com/100614266/170912146-1cacbb51-6c19-4dc5-ae94-b21c5b4fcef7.png)
 
 
 ## Summary
